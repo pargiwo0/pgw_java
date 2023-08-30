@@ -7,6 +7,7 @@ public class JA0830_03 {
 		int num1 = 100;   //변수 선언
 		int num2 = 200;
 		int temp; // System.out.println(temp); 값이 들어 가있지 않아 에러가 난다, 변수를 선언한후 값이 들어가야 함
+		int temp2 = 0;
 		int company_intro;
 		int companyIntro;
 		System.out.println(num1+num2);
